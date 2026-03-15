@@ -26,41 +26,6 @@ Behavior Logic: Toggle random behaviors or force specific movement patterns.
 
 🛠️ Settings Panel: Fine-tune animation delays, movement fluidity, and ground offset heights.
 
-🚀 Installation
-Clone the repository:
-
-Bash
-git clone https://github.com/yourusername/vira-bot.git
-cd vira-bot
-Install Dependencies:
-Vira Bot requires Pillow for image processing.
-
-Bash
-pip install Pillow
-Prepare Assets:
-Ensure your folder structure looks like this:
-
-Plaintext
-/assets
-  /idle
-    1.png, 2.png
-  /walk
-    1.png, 2.png
-  /run
-    1.png, 2.png
-  /scary
-    1.png, 2.png
-Run the Bot:
-
-Bash
-python vira_bot.py
-🎮 How to Use
-Right Click on Vira Bot to open the Control Hub.
-
-Use the Appearance menu to load your own custom sprites.
-
-Check the Info section for real-time stats like coordinates and current speed.
-
 🛠️ Built With
 Python 3.x
 
